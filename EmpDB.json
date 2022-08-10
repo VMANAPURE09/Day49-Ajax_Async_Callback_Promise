@@ -1,19 +1,19 @@
 {
-    "employee": [
-      {
-        "id": 1,
-        "name": "Vaibhav",
-        "salary": "100"
-      },
-      {
-        "id": 2,
-        "name": "Sanjay",
-        "salary": "200"
-      },
-      {
-        "id": 3,
-        "name": "Lisa",
-        "salary": "300"
-      }
-    ]
-  }
+  "employee": [
+    {
+      "id": 1,
+      "name": "Vaibhav",
+      "salary": "100"
+    },
+    {
+      "id": 2,
+      "name": "Sanjay",
+      "salary": "200"
+    },
+    {
+      "id": 3,
+      "name": "Lisa",
+      "salary": "300"
+    }
+  ]
+}
